@@ -44,6 +44,8 @@ plt.imshow(image_draw)
 
 # Tests
 - Testing drawing bounding box with text on sample image successfully.
+
+Note: the location of the boxes are random numbers for testing purposes.
 ![Image](https://github.com/danielc92/cv2-drawing-boundingboxes/blob/master/result-cropped.jpg)
 
 # Contributors
