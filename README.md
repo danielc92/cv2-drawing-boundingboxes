@@ -19,6 +19,7 @@ pip install opencv-python
 
 # Tests
 - Testing drawing bounding box with text on sample image successfully.
+![Image](https://github.com/danielc92/cv2-drawing-boundingboxes/blob/master/result-cropped.jpg)
 
 # Contributors
 - Daniel Corcoran
